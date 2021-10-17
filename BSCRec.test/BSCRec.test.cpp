@@ -8,7 +8,7 @@ extern "C"
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 
-namespace UnitTest1
+namespace UnitTest
 {
 	TEST_CLASS(UnitTest1)
 	{
